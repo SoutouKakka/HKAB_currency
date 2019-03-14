@@ -13,7 +13,6 @@ const request = require('request');
  * - err: error
  * - currency: currency details returned from the function
  */
-/
 queryCurrency('JPY', {
 	day: '14',
 	month: '03',
